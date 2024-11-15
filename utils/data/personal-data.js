@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Anthony Mwangi",
-  profile: '/profile.png',
+  profile: '/profile.jpeg',
   designation: "Software Developer",
   description: "My name is Anthony Mwangi. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. My core skill is based on JavaScript and I love to do most of the things using JavaScript & Flutter. I am available for any kind of job opportunity that suits my skills and interests.",
   email: 'raskolvnik@gmail.com',
