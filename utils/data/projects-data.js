@@ -1,7 +1,4 @@
 import ayla from '/public/image/ayla.jpg';
-import ayla from '/public/image/ayla.jpg';
-import realEstate from '/public/image/real-estate.jpg';
-import travel from '/public/image/travel.jpg';
 
 export const projectsData = [
     {
