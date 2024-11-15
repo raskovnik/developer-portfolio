@@ -18,7 +18,7 @@
 
 ![](./public/image/screen.png)
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://raskovnic.netlify.app/).
 
 ---
 
@@ -120,20 +120,20 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
-  profile: "/profile.png",
+  name: "Anthony Mwangi",
+  profile: "/profile.jpeg",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Anthony Mwangi....",
+  email: "raskolvnik@gmail.com",
+  phone: "+254790840075",
+  address: "Nyeri, Kenya",
+  github: "https://github.com/raskovnik",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/raskovnic/",
+  twitter: "",
+  stackOverflow: "",
+  leetcode: "",
+  devUsername: "raskovnic",
   resume: "...",
 };
 ```
