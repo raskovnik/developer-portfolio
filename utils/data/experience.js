@@ -15,7 +15,7 @@ export const experiences = [
     id: 3,
     title: "Software Developer",
     company: "CodSoft",
-    duration: "(May 2024 - Apr 2024)"
+    duration: "(Mar 2024 - Apr 2024)"
   },
   {
     id: 4,
